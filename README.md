@@ -1,5 +1,1 @@
-This is the Python Project which is made by the tkinter graphics of python with sqlite database connectivity during 1st semester when we were taught python as a core subject.
-Inventory Tracker- Keeps the track of all the goods added and can handle the database for 100s of users,easy to use with simple graphical interface.
-There is an option of login and logout and can easily check the password.
-We can also generate the bill similar to super markets.
-Future Scope:: Can add scanners of the products for automatic entry rahter than manually typing and can be easily used by the retailers to keep a track of their products.
+The inventory tracker project is developed using Python's Tkinter library for the graphical user interface (GUI) and SQLite Browser for database management. The program features a login system with a password recovery option, allowing users to reset their password if forgotten. Upon successful login, users are directed to a dashboard that provides access to various sections of the application, including employee details, grocery inventory, supplier information, and bill creation. This tool aims to streamline inventory management by organizing and tracking essential data in an efficient and user-friendly manner.
